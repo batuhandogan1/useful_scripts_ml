@@ -1,0 +1,26 @@
+albumentations==1.4.1
+coremltools==7.1
+matplotlib==3.7.2
+numpy==1.24.1
+onnx==1.12.0
+onnx_graphsurgeon==0.3.27
+onnxsim==0.4.36
+opencv_python==4.8.1.78
+pafy==0.5.5
+pandas==2.2.1
+Pillow==9.5.0
+Pillow==10.2.0
+pycocotools==2.0.7
+PyYAML==6.0.1
+PyYAML==6.0.1
+Requests==2.31.0
+scipy==1.12.0
+seaborn==0.13.2
+setuptools==68.0.0
+thop==0.1.1.post2209072238
+# torch==2.0.0+cu117		CUDA version specific
+# torchvision==0.15.1+cu117	CUDA version specific
+tqdm==4.66.1
+tritonclient==2.43.0
+ultralytics==8.0.178
+wandb==0.16.4
